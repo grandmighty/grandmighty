@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Pedal Commute	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2011/10/pedal-commute/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2011/10/pedal-commute/</link>
+	<description></description>
+	<lastBuildDate>Mon, 31 Oct 2011 01:58:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: wang		</title>
+		<link>https://grandmighty.github.io/grandmighty/2011/10/pedal-commute/#comment-13388</link>
+
+		<dc:creator><![CDATA[wang]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2011 01:58:47 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=2774#comment-13388</guid>
+
+					<description><![CDATA[i&#039;m calling shenanigans]]></description>
+			<content:encoded><![CDATA[<p>i&#8217;m calling shenanigans</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Eric		</title>
+		<link>https://grandmighty.github.io/grandmighty/2011/10/pedal-commute/#comment-13367</link>
+
+		<dc:creator><![CDATA[Eric]]></dc:creator>
+		<pubDate>Sun, 30 Oct 2011 04:18:41 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=2774#comment-13367</guid>
+
+					<description><![CDATA[gps data = google maps + clock 
+
+indisputable evidence.]]></description>
+			<content:encoded><![CDATA[<p>gps data = google maps + clock </p>
+<p>indisputable evidence.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: wang		</title>
+		<link>https://grandmighty.github.io/grandmighty/2011/10/pedal-commute/#comment-13332</link>
+
+		<dc:creator><![CDATA[wang]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2011 02:24:41 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=2774#comment-13332</guid>
+
+					<description><![CDATA[gps data or shenanigans.]]></description>
+			<content:encoded><![CDATA[<p>gps data or shenanigans.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

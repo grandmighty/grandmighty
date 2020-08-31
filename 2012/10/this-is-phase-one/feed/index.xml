@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: This is Phase One	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2012/10/this-is-phase-one/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2012/10/this-is-phase-one/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Oct 2012 15:31:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: Kent		</title>
+		<link>https://grandmighty.github.io/grandmighty/2012/10/this-is-phase-one/#comment-31212</link>
+
+		<dc:creator><![CDATA[Kent]]></dc:creator>
+		<pubDate>Fri, 05 Oct 2012 15:31:27 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=4013#comment-31212</guid>
+
+					<description><![CDATA[You definitely took a lot of time (and money) for phase one. Now it&#039;s time to enjoy your awesome work. :D]]></description>
+			<content:encoded><![CDATA[<p>You definitely took a lot of time (and money) for phase one. Now it&#8217;s time to enjoy your awesome work. :D</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

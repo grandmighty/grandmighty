@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Adieu, Motard	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2011/01/adieu-motard/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2011/01/adieu-motard/</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Jun 2012 03:31:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: Eric		</title>
+		<link>https://grandmighty.github.io/grandmighty/2011/01/adieu-motard/#comment-1727</link>
+
+		<dc:creator><![CDATA[Eric]]></dc:creator>
+		<pubDate>Mon, 10 Jan 2011 02:21:05 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=1094#comment-1727</guid>
+
+					<description><![CDATA[werd]]></description>
+			<content:encoded><![CDATA[<p>werd</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Kent		</title>
+		<link>https://grandmighty.github.io/grandmighty/2011/01/adieu-motard/#comment-1611</link>
+
+		<dc:creator><![CDATA[Kent]]></dc:creator>
+		<pubDate>Fri, 07 Jan 2011 20:27:22 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=1094#comment-1611</guid>
+
+					<description><![CDATA[your bike heart is set on the track. =]]]></description>
+			<content:encoded><![CDATA[<p>your bike heart is set on the track. =]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

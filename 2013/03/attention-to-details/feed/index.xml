@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Attention to Details	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2013/03/attention-to-details/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2013/03/attention-to-details/</link>
+	<description></description>
+	<lastBuildDate>Sun, 17 Mar 2013 07:48:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: More Progress VII &#124; Grand Mighty		</title>
+		<link>https://grandmighty.github.io/grandmighty/2013/03/attention-to-details/#comment-56470</link>
+
+		<dc:creator><![CDATA[More Progress VII &#124; Grand Mighty]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2013 07:48:48 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=4535#comment-56470</guid>
+
+					<description><![CDATA[[...] a replacement connector in hand, I used the sealed solder and crimp connectors to extend the wiring back. I temporarily crimped what I could together just so the fan would still [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] a replacement connector in hand, I used the sealed solder and crimp connectors to extend the wiring back. I temporarily crimped what I could together just so the fan would still [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

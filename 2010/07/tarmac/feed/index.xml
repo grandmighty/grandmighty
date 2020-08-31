@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Tarmac.	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2010/07/tarmac/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2010/07/tarmac/</link>
+	<description></description>
+	<lastBuildDate>Sun, 28 Nov 2010 05:22:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: Santa Cruz Blur LT2 &#124; GRAND MIGHTY		</title>
+		<link>https://grandmighty.github.io/grandmighty/2010/07/tarmac/#comment-634</link>
+
+		<dc:creator><![CDATA[Santa Cruz Blur LT2 &#124; GRAND MIGHTY]]></dc:creator>
+		<pubDate>Sun, 28 Nov 2010 05:22:04 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=334#comment-634</guid>
+
+					<description><![CDATA[[...] new development in regards to my cycling department&#8230; I ended up putting the Tarmac on eBay and selling it. The main reason why I sold the bicycle is because I got bored of road [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] new development in regards to my cycling department&#8230; I ended up putting the Tarmac on eBay and selling it. The main reason why I sold the bicycle is because I got bored of road [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Kent		</title>
+		<link>https://grandmighty.github.io/grandmighty/2010/07/tarmac/#comment-52</link>
+
+		<dc:creator><![CDATA[Kent]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2010 08:38:36 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=334#comment-52</guid>
+
+					<description><![CDATA[we should definitely ride now. =]]]></description>
+			<content:encoded><![CDATA[<p>we should definitely ride now. =]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

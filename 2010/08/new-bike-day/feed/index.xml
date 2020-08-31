@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: New Bike Day	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2010/08/new-bike-day/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2010/08/new-bike-day/</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Jun 2012 03:39:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: Kent		</title>
+		<link>https://grandmighty.github.io/grandmighty/2010/08/new-bike-day/#comment-72</link>
+
+		<dc:creator><![CDATA[Kent]]></dc:creator>
+		<pubDate>Tue, 10 Aug 2010 06:29:42 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=398#comment-72</guid>
+
+					<description><![CDATA[good find! congrats.]]></description>
+			<content:encoded><![CDATA[<p>good find! congrats.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Ask Me Anything	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2016/10/ask-me-anything/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2016/10/ask-me-anything/</link>
+	<description></description>
+	<lastBuildDate>Tue, 08 May 2018 03:51:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: Eric		</title>
+		<link>https://grandmighty.github.io/grandmighty/2016/10/ask-me-anything/#comment-476045</link>
+
+		<dc:creator><![CDATA[Eric]]></dc:creator>
+		<pubDate>Tue, 08 May 2018 03:51:08 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=6993#comment-476045</guid>
+
+					<description><![CDATA[What&#039;s up I came across your video on youtube we have the rx-7 that you sold at our shop and it doesn&#039;t start was wondering if you would be willing to assist us in diagnosing the issue? Thank you]]></description>
+			<content:encoded><![CDATA[<p>What&#8217;s up I came across your video on youtube we have the rx-7 that you sold at our shop and it doesn&#8217;t start was wondering if you would be willing to assist us in diagnosing the issue? Thank you</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

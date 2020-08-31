@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Fascia	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2012/09/fascia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2012/09/fascia/</link>
+	<description></description>
+	<lastBuildDate>Wed, 19 Sep 2012 18:16:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: Eric		</title>
+		<link>https://grandmighty.github.io/grandmighty/2012/09/fascia/#comment-29280</link>
+
+		<dc:creator><![CDATA[Eric]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2012 18:16:19 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=3956#comment-29280</guid>
+
+					<description><![CDATA[Why start something if you don&#039;t intend on finishing it? :-)]]></description>
+			<content:encoded><![CDATA[<p>Why start something if you don&#8217;t intend on finishing it? :-)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Kent		</title>
+		<link>https://grandmighty.github.io/grandmighty/2012/09/fascia/#comment-29216</link>
+
+		<dc:creator><![CDATA[Kent]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2012 06:38:07 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=3956#comment-29216</guid>
+
+					<description><![CDATA[Man, oh man. The FD is making too much progress! LOL]]></description>
+			<content:encoded><![CDATA[<p>Man, oh man. The FD is making too much progress! LOL</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

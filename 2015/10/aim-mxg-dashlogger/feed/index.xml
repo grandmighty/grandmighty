@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: AiM MXG Dashlogger	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/</link>
+	<description></description>
+	<lastBuildDate>Wed, 11 Jul 2018 19:55:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: vincent		</title>
+		<link>https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-487876</link>
+
+		<dc:creator><![CDATA[vincent]]></dc:creator>
+		<pubDate>Wed, 11 Jul 2018 19:55:11 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=5894#comment-487876</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-159495&quot;&gt;william&lt;/a&gt;.
+
+have you been able to make the fuel level gauge work with the mxg?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-159495">william</a>.</p>
+<p>have you been able to make the fuel level gauge work with the mxg?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: william		</title>
+		<link>https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-159495</link>
+
+		<dc:creator><![CDATA[william]]></dc:creator>
+		<pubDate>Sat, 16 Jan 2016 19:57:18 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=5894#comment-159495</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-158299&quot;&gt;Eric&lt;/a&gt;.
+
+Sweet man good info, I&#039;m trying to add aftermarket lights to my cluster after molding a tablet into it, thanks]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-158299">Eric</a>.</p>
+<p>Sweet man good info, I&#8217;m trying to add aftermarket lights to my cluster after molding a tablet into it, thanks</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Eric		</title>
+		<link>https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-158299</link>
+
+		<dc:creator><![CDATA[Eric]]></dc:creator>
+		<pubDate>Sat, 16 Jan 2016 01:11:25 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=5894#comment-158299</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-156211&quot;&gt;william&lt;/a&gt;.
+
+Yes they will. The blinking of the cluster lights is only tied into the relay near the CPU #2, opposite of the circuit that goes to the lights themselves. I tapped into the same circuit as the original cluster lights and the AiM is internally fused and was able to translate the voltage.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-156211">william</a>.</p>
+<p>Yes they will. The blinking of the cluster lights is only tied into the relay near the CPU #2, opposite of the circuit that goes to the lights themselves. I tapped into the same circuit as the original cluster lights and the AiM is internally fused and was able to translate the voltage.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: william		</title>
+		<link>https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-156211</link>
+
+		<dc:creator><![CDATA[william]]></dc:creator>
+		<pubDate>Thu, 14 Jan 2016 19:03:24 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=5894#comment-156211</guid>
+
+					<description><![CDATA[What did you do for turn signals? Are they part of the circuit? As in, will the exterior markers still blink without the cluster lights plugged in.]]></description>
+			<content:encoded><![CDATA[<p>What did you do for turn signals? Are they part of the circuit? As in, will the exterior markers still blink without the cluster lights plugged in.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Eric		</title>
+		<link>https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-148930</link>
+
+		<dc:creator><![CDATA[Eric]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2016 05:13:58 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=5894#comment-148930</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-147172&quot;&gt;Daniel&lt;/a&gt;.
+
+That was part of the Pioneer Double DIN install kit. Do a search for it and you should be able to find it.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-147172">Daniel</a>.</p>
+<p>That was part of the Pioneer Double DIN install kit. Do a search for it and you should be able to find it.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Daniel		</title>
+		<link>https://grandmighty.github.io/grandmighty/2015/10/aim-mxg-dashlogger/#comment-147172</link>
+
+		<dc:creator><![CDATA[Daniel]]></dc:creator>
+		<pubDate>Sun, 10 Jan 2016 08:18:48 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=5894#comment-147172</guid>
+
+					<description><![CDATA[Love the look of the interior!  The MXG really updates things.  Can I ask where you got the dual din stereo bezel?  It looks nicer than some others I&#039;ve seen..]]></description>
+			<content:encoded><![CDATA[<p>Love the look of the interior!  The MXG really updates things.  Can I ask where you got the dual din stereo bezel?  It looks nicer than some others I&#8217;ve seen..</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

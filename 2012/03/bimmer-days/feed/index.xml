@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Bimmer Days	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2012/03/bimmer-days/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2012/03/bimmer-days/</link>
+	<description></description>
+	<lastBuildDate>Sat, 31 Mar 2012 03:51:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: Kent		</title>
+		<link>https://grandmighty.github.io/grandmighty/2012/03/bimmer-days/#comment-18131</link>
+
+		<dc:creator><![CDATA[Kent]]></dc:creator>
+		<pubDate>Fri, 30 Mar 2012 18:18:38 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=3257#comment-18131</guid>
+
+					<description><![CDATA[It only means that your car is worth the drive. :)]]></description>
+			<content:encoded><![CDATA[<p>It only means that your car is worth the drive. :)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

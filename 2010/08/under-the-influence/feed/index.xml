@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Under the Influence	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2010/08/under-the-influence/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2010/08/under-the-influence/</link>
+	<description></description>
+	<lastBuildDate>Tue, 31 Aug 2010 23:31:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: Jon		</title>
+		<link>https://grandmighty.github.io/grandmighty/2010/08/under-the-influence/#comment-109</link>
+
+		<dc:creator><![CDATA[Jon]]></dc:creator>
+		<pubDate>Tue, 31 Aug 2010 23:31:51 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=523#comment-109</guid>
+
+					<description><![CDATA[Wow, haven&#039;t checked GM in a while, I love the new look!]]></description>
+			<content:encoded><![CDATA[<p>Wow, haven&#8217;t checked GM in a while, I love the new look!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Kent		</title>
+		<link>https://grandmighty.github.io/grandmighty/2010/08/under-the-influence/#comment-106</link>
+
+		<dc:creator><![CDATA[Kent]]></dc:creator>
+		<pubDate>Tue, 31 Aug 2010 07:46:30 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=523#comment-106</guid>
+
+					<description><![CDATA[much love. i&#039;m definitely gonna add them on my blog site so i can check em out randomly. =]]]></description>
+			<content:encoded><![CDATA[<p>much love. i&#8217;m definitely gonna add them on my blog site so i can check em out randomly. =]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 80s Style	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2016/12/80s-style/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2016/12/80s-style/</link>
+	<description></description>
+	<lastBuildDate>Mon, 09 Jan 2017 05:31:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: Eric		</title>
+		<link>https://grandmighty.github.io/grandmighty/2016/12/80s-style/#comment-435475</link>
+
+		<dc:creator><![CDATA[Eric]]></dc:creator>
+		<pubDate>Mon, 09 Jan 2017 05:31:54 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=7212#comment-435475</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://grandmighty.github.io/grandmighty/2016/12/80s-style/#comment-435462&quot;&gt;Grant.H&lt;/a&gt;.
+
+Thanks!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://grandmighty.github.io/grandmighty/2016/12/80s-style/#comment-435462">Grant.H</a>.</p>
+<p>Thanks!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Grant.H		</title>
+		<link>https://grandmighty.github.io/grandmighty/2016/12/80s-style/#comment-435462</link>
+
+		<dc:creator><![CDATA[Grant.H]]></dc:creator>
+		<pubDate>Sun, 08 Jan 2017 05:37:24 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=7212#comment-435462</guid>
+
+					<description><![CDATA[That&#039;s super cool!]]></description>
+			<content:encoded><![CDATA[<p>That&#8217;s super cool!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
