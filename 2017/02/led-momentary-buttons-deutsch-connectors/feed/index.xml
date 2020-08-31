@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: LED Momentary Buttons &#038; Deutsch Connectors	</title>
+	<atom:link href="https://grandmighty.github.io/grandmighty/2017/02/led-momentary-buttons-deutsch-connectors/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grandmighty.github.io/grandmighty/2017/02/led-momentary-buttons-deutsch-connectors/</link>
+	<description></description>
+	<lastBuildDate>Tue, 25 Apr 2017 05:04:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>
+		By: Eric		</title>
+		<link>https://grandmighty.github.io/grandmighty/2017/02/led-momentary-buttons-deutsch-connectors/#comment-440096</link>
+
+		<dc:creator><![CDATA[Eric]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2017 05:04:49 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=7502#comment-440096</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://grandmighty.github.io/grandmighty/2017/02/led-momentary-buttons-deutsch-connectors/#comment-439764&quot;&gt;Alex&lt;/a&gt;.
+
+A potentiometer definitely would have been easy, I&#039;m not really sure why. I think I just wanted to keep the overall package simple and was fixed on getting the lights to the right static brightness.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://grandmighty.github.io/grandmighty/2017/02/led-momentary-buttons-deutsch-connectors/#comment-439764">Alex</a>.</p>
+<p>A potentiometer definitely would have been easy, I&#8217;m not really sure why. I think I just wanted to keep the overall package simple and was fixed on getting the lights to the right static brightness.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alex		</title>
+		<link>https://grandmighty.github.io/grandmighty/2017/02/led-momentary-buttons-deutsch-connectors/#comment-439764</link>
+
+		<dc:creator><![CDATA[Alex]]></dc:creator>
+		<pubDate>Sun, 23 Apr 2017 04:05:56 +0000</pubDate>
+		<guid isPermaLink="false">https://grandmighty.github.io/grandmighty/?p=7502#comment-439764</guid>
+
+					<description><![CDATA[Just stumbled across this build.
+Quick question, why didn&#039;t you use a potentiometer to control the brightness, along with the initial resistor?]]></description>
+			<content:encoded><![CDATA[<p>Just stumbled across this build.<br />
+Quick question, why didn&#8217;t you use a potentiometer to control the brightness, along with the initial resistor?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
